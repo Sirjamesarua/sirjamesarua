@@ -50,7 +50,7 @@
   
 ## Most Used Languages  
   
- <a href="https://sirjamesarua.vercel.app">
+ <a href="https://sirjames.netlify.com">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&langs_count=5&theme=tokyonight">
 </a>
 
