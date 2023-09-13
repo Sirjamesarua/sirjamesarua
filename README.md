@@ -33,9 +33,33 @@
   </div>
   <br/> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=sirjamesarua&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sirjamesarua&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Github Trophy
+  
+<a href="https://sirjamesarua.vercel.app">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=sirjamesarua&theme=gruvbox">
+</a>
+
+## 📊 More Stats
+  ![](https://komarev.com/ghpvc/?username=sirjamesarua&color=green) <br />
+**Github Stats**
+  
+  <a href="https://sirjamesarua.vercel.app">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sirjamesarua&show_icons=true" />
+</a>  
+  
+## Most Used Languages  
+  
+ <a href="https://sirjamesarua.vercel.app">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&langs_count=5&theme=tokyonight">
+</a>
+
+## Streak Stats
+
+<a href="https://sirjamesarua.vercel.app">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=sirjamesarua&theme=dark">
+</a>
+
 
 <h3>Show your support!</h3>
 Thank you for visiting my profile, I appreciate your support giving a ⭐.
