@@ -51,7 +51,7 @@
 ## Most Used Languages  
   
  <a href="https://sirjames.netlify.com">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestharuna&langs_count=5&theme=tokyonight">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&langs_count=5&theme=tokyonight">
 </a>
 
 ## Streak Stats
