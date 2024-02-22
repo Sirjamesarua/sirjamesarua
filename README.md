@@ -1,7 +1,7 @@
 <h2> Hi 👋, I'm James Arua!</h2>
 
 🔭 A professional Full Stack Developer <br>
-🌱 With over 3years experiences in Laravel and Reactjs<br>
+🌱 With over 6years experiences in Laravel and Reactjs<br>
 👯 I’m looking to collaborate on open-source projects<br>
 💬 Ask me about Laravel and ReactJS<br>
 🚩 Interested in Full-stack web development<br>
