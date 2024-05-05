@@ -36,7 +36,7 @@
 
 ## 🏆 Github Trophy
   
-<a href="https://sirjames.netlify.com">
+<a href="https://sirjames.netlify.app">
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=sirjamesarua&theme=gruvbox">
 </a>
 
@@ -44,19 +44,19 @@
   ![](https://komarev.com/ghpvc/?username=sirjamesarua&color=green) <br />
 **Github Stats**
   
-  <a href="https://sirjames.netlify.com">
+  <a href="https://sirjames.netlify.app">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sirjamesarua&show_icons=true" />
 </a>  
   
 ## Most Used Languages  
   
- <a href="https://sirjames.netlify.com">
+ <a href="https://sirjames.netlify.app">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&langs_count=5&theme=tokyonight">
 </a>
 
 ## Streak Stats
 
-<a href="https://sirjames.netlify.com">
+<a href="https://sirjames.netlify.app">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=sirjamesarua&theme=dark">
 </a>
 
