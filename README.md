@@ -18,7 +18,6 @@
 - 💡 **Engineering Philosophy:** I don't just write code; I build maintainable ecosystems that drive scale, automate manual workflows, and guarantee 99.9% uptime.
 - 👯 **Open to:** Senior/Lead engineering roles, high-impact remote opportunities, and scalable architecture challenges.
 - 📫 **Reach me via:** <a href="mailto:dev.sirjames@gmail.com">dev.sirjames@gmail.com</a>
-- 🌍 **Location:** Maryland, USA (Currently operating remotely from Abuja, NG).
 
 ---
 
@@ -51,51 +50,33 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <a href="https://github.com/sirjamesarua">
-    <img src="https://github-readme-stats.vercel.app/api?username=sirjamesarua&show_icons=true&theme=tokyonight&hide_border=true" alt="James's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sirjamesarua">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirjamesarua&theme=tokyonight&hide_border=true" alt="James's Streak Stats" />
-  </a>
-</div>
+## 🏆 Github Trophy
+  
+<a href="https://sirjames.netlify.app">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=sirjamesarua&theme=gruvbox">
+</a>
 
-<br />
+## 📊 More Stats
+  ![](https://komarev.com/ghpvc/?username=sirjamesarua&color=green) <br />
+**Github Stats**
+  
+  <a href="https://sirjames.netlify.app">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sirjamesarua&show_icons=true" />
+</a>  
+  
+## Most Used Languages  
+  
+ <a href="https://sirjames.netlify.app">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&langs_count=5&theme=tokyonight">
+</a>
 
-<div align="center">
-  <a href="https://github.com/sirjamesarua">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjamesarua&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
+## Streak Stats
 
----
+<a href="https://sirjames.netlify.app">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=sirjamesarua&theme=dark">
+</a>
 
-### 🏆 Trophies
 
-<p align="center">
-  <a href="https://github.com/sirjamesarua">
-    <img src="https://github-profile-trophy.vercel.app/?username=sirjamesarua&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/james-arua-5391b4221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/bossarua" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://sirjames.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thank you for visiting my profile. If my work resonates with you, I'd appreciate a ⭐ on my repositories!</i>
-</p>
+<h3>Show your support!</h3>
+Thank you for visiting my profile, I appreciate your support giving a ⭐.
