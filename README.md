@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Okonkwo</h1>
+<h1 align="center">Hi 👋, I'm James Arua</h1>
 <h3 align="center">Senior Full-Stack Software Engineer & Systems Architect 🚀</h3>
 
 <p align="center">
